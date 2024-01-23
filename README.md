@@ -29,5 +29,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigdogempire4&theme=github_dark&hide_border=true&show&text_color=ffffff&bg_color=000000&color=6a8acf" alt="bigdogempire4?theme=dark" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigdogempire4&" alt="bigdogempire4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigdogempire4&theme=holi" alt="bigdogempire4" /></p>
 
