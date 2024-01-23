@@ -23,9 +23,9 @@
 <p align="center">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigdogempire4&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&show&text_color=ffffff&bg_color=000000&tiitle_color=6a8acf" alt="bigdogempire4" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigdogempire4&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&show&text_color=ffffff&bg_color=151515&tiitle_color=6a8acf" alt="bigdogempire4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigdogempire4&show_icons=true&locale=en&theme=dark&hide_border=true&show&text_color=ffffff&bg_color=000000&tiitle_color=6a8acf&icon_color=0000FF" alt="bigdogempire4" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigdogempire4&show_icons=true&locale=en&theme=dark&hide_border=true&show&text_color=ffffff&bg_color=151515&tiitle_color=6a8acf&icon_color=0000FF" alt="bigdogempire4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigdogempire4&theme=github_dark&hide_border=true&show&text_color=ffffff&bg_color=000000&color=6a8acf" alt="bigdogempire4?theme=dark" /></p>
 
