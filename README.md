@@ -23,7 +23,7 @@
 <p align="center">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigdogempire4&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&show&text-color=4c4e76" alt="bigdogempire4" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigdogempire4&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&show&text_color=ffffff&bg_color=000000" alt="bigdogempire4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigdogempire4&show_icons=true&locale=en&theme=dark&hide_border=true&show" alt="bigdogempire4" /></p>
 
